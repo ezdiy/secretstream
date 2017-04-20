@@ -22,7 +22,7 @@ import (
 	"strings"
 
 	"github.com/cryptix/secretstream/boxstream"
-	"github.com/cryptix/secretstream/secrethandshake"
+	"github.com/ezdiy/secretstream/secrethandshake"
 )
 
 // Server can create net.Listeners

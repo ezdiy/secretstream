@@ -23,7 +23,7 @@ import (
 
 	"github.com/agl/ed25519"
 	"github.com/cryptix/secretstream/boxstream"
-	"github.com/cryptix/secretstream/secrethandshake"
+	"github.com/ezdiy/secretstream/secrethandshake"
 )
 
 // Client can dial secret-handshake server endpoints
